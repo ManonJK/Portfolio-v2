@@ -47,7 +47,7 @@ include ('components/navbar.php');
                     <div class="text card-content">Javascript / HTML5 / CSS3</div>
                 </div>
             </div>
-            <div class="container-card product-box">
+            <div class="container-card product-box" onclick="window.open('https://github.com/ManonJK/Portfolio');">
                 <div class="">
                     <img src="assets/images/site.JPG" class="image" alt="mon site web">
                 </div>
