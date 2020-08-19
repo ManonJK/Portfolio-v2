@@ -8,6 +8,7 @@ h1{
     letter-spacing: -.05em;
     text-transform: uppercase;
     font-size: 3vw;
+    color: #004846;
 }
 
 h2{
@@ -69,6 +70,7 @@ hr.line{
 
 #h1-titre{
     font-size: 5.2vw;
+    color: floralwhite;
 }
 
 #fond{
@@ -179,6 +181,18 @@ hr.line{
     text-align: center;
 }
 
+.navbar-light .navbar-brand {
+    color: #f8f9fa!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #88A1A1!important;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #CAE3F5!important;
+}
+
 #photo-prez{
     border-radius: 50%;
     background-image: url(images/photo.jpg);
@@ -283,7 +297,7 @@ section{
     float: left;
     clear: left;
     width: 45%;
-    margin: 1em 2.5%;
+    margin: 0.2em 2.5%;
     list-style-type: none;
     display: block;
     padding: 25px;
@@ -414,13 +428,17 @@ section{
     font-size: 1.5em;
 }
 
+.bg-light{
+    background-color: #004846!important;
+}
+
 
 
 /*BOUTONS*/
 
 .button2 {
     /*flex: 1 1 auto;*/
-    background-color: black;
+    background-color: #004846;
     width: 150px;
     margin: 10px;
     padding: 20px;
@@ -442,7 +460,7 @@ section{
     left: 50%;
     bottom: 0;
     height: 3px;
-    background: black;
+    background: #004846;
 }
 
 .button2:hover {
@@ -499,7 +517,7 @@ svg{
     height: 10vmin;
     width: 6vmin;
     border-radius: 10vmin;
-    border: 0.4545454545vmin solid #404040;
+    border: 0.4545454545vmin solid #004846;
     position: relative;
 }
 .scroll:before {
@@ -509,7 +527,7 @@ svg{
     top: 2vmin;
     height: 1vmin;
     width: 1.1vmin;
-    background: #404040;
+    background: #004846;
     border-radius: 50%;
     -webkit-animation: scroll 4s infinite;
     animation: scroll 4s infinite;
@@ -577,11 +595,11 @@ svg{
 .phone a,
 .email a,
 .location a {
-    color: #0D7069;;
+    color: #004846;;
     font-size:18px;
 }
 .contact-h2 {
-    color: #0D7069;;
+    color: #004846;;
     padding-top:20px;
 }
 .contact-fields .form-group {

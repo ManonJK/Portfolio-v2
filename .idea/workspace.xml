@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="724cd588-6ae3-4dcc-ac66-740557409f98" name="Default Changelist" comment="" />
+    <list default="true" id="724cd588-6ae3-4dcc-ac66-740557409f98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/hacktag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/netflix.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/recalbox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/webix.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/arcade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gamned.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gamned_recrut.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/webix.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/webix_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/webix_price.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rapport_gamned.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/articles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/articles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/gamned.php" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/gamned.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/wwh.php" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/wwh.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fond.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/fond.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/propos.php" beforeDir="false" afterPath="$PROJECT_DIR$/propos.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +33,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="31" column="111" selection-start-line="31" selection-start-column="111" selection-end-line="31" selection-end-column="111" />
+            <state relative-caret-position="476">
+              <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="72" column="35" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/head.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -24,15 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="583" column="19" selection-start-line="583" selection-start-column="19" selection-end-line="583" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -65,7 +106,17 @@
       <find>.card</find>
       <find>#fond</find>
       <find>contact-sect</find>
+      <find>button2</find>
+      <find>font-fa</find>
+      <find>Did</find>
+      <find>fond</find>
+      <find>h2</find>
+      <find>.bg-li</find>
+      <find>h1-titre</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,28 +127,34 @@
         <option value="$PROJECT_DIR$/components/loader.php" />
         <option value="$PROJECT_DIR$/assets/script.js" />
         <option value="$PROJECT_DIR$/Blog/nav.php" />
-        <option value="$PROJECT_DIR$/Blog/style.css" />
         <option value="$PROJECT_DIR$/components/head.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Blog/Articles/wwh.php" />
-        <option value="$PROJECT_DIR$/Blog/index.php" />
-        <option value="$PROJECT_DIR$/Blog/wwh.php" />
-        <option value="$PROJECT_DIR$/Blog/articles.css" />
         <option value="$PROJECT_DIR$/Blog/components/nav.php" />
         <option value="$PROJECT_DIR$/propos.php" />
         <option value="$PROJECT_DIR$/components/navbar.php" />
-        <option value="$PROJECT_DIR$/assets/style.css" />
         <option value="$PROJECT_DIR$/portfolio.php" />
+        <option value="$PROJECT_DIR$/Blog/wwh.php" />
+        <option value="$PROJECT_DIR$/Blog/style.css" />
+        <option value="$PROJECT_DIR$/Blog/netflix.php" />
+        <option value="$PROJECT_DIR$/Blog/hacktag.php" />
+        <option value="$PROJECT_DIR$/Blog/webix.php" />
+        <option value="$PROJECT_DIR$/Blog/recalbox.php" />
+        <option value="$PROJECT_DIR$/Blog/gamned.php" />
+        <option value="$PROJECT_DIR$/Blog/articles.css" />
+        <option value="$PROJECT_DIR$/Blog/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/style.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1954" />
-    <option name="y" value="850" />
-    <option name="width" value="1800" />
-    <option name="height" value="968" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1058" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -108,29 +165,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Portfolio2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio2" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio-v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Portfolio2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio2" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio-v2" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Portfolio2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio2" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Portfolio2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio2" type="462c0819:PsiDirectoryNode" />
-              <item name="Blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Portfolio2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio2" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,23 +181,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio/propos.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2" />
-      <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\assets\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\Blog" />
       <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\Blog\components" />
       <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\assets" />
       <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\assets\images" />
       <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\database" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\assets" />
+      <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2" />
+      <recent name="E:\Programmes\Logiciels\Wamp\www\Portfolio2\assets\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,18 +244,39 @@
       <workItem from="1581001691972" duration="1811000" />
       <workItem from="1581078045187" duration="476000" />
       <workItem from="1581169830954" duration="2453000" />
-      <workItem from="1581256356265" duration="6743000" />
+      <workItem from="1581256356265" duration="7995000" />
+      <workItem from="1581410035995" duration="5299000" />
+      <workItem from="1581421215369" duration="6320000" />
+      <workItem from="1581509793287" duration="9000" />
+      <workItem from="1581604590617" duration="1453000" />
+      <workItem from="1581619366045" duration="633000" />
+      <workItem from="1581944185227" duration="540000" />
+      <workItem from="1589637171151" duration="4062000" />
+      <workItem from="1590325090242" duration="20000" />
+      <workItem from="1593719559361" duration="758000" />
+      <workItem from="1594642571245" duration="247000" />
+      <workItem from="1596460084722" duration="15000" />
+      <workItem from="1596793626116" duration="693000" />
+      <workItem from="1596794344870" duration="436000" />
     </task>
+    <task id="LOCAL-00001" summary="little change in the portfolio">
+      <created>1581264482947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581264482947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66984000" />
+    <option name="totallyTimeSpent" value="88721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="863" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3181208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,7 +288,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.4305949" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -233,7 +297,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.252349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,7 +309,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.4305949" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -256,6 +320,50 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="little change in the portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="little change in the portfolio" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/images/fond.jpg">
@@ -273,9 +381,7 @@
     </entry>
     <entry file="file://E:/ProgressBars/index.html" />
     <entry file="file://E:/ProgressBars/css/style.css" />
-    <entry file="file://E:/Téléchargements/site_cv-master/menu.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://E:/Téléchargements/site_cv-master/menu.js" />
     <entry file="file://$PROJECT_DIR$/../index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -311,27 +417,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Téléchargements/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Portfolio/propos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Téléchargements/index.php" />
+    <entry file="file://$PROJECT_DIR$/../Portfolio/propos.php" />
     <entry file="file://$PROJECT_DIR$/assets/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -342,46 +433,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Téléchargements/A_Propos/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2601" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Contact.zip/Contact/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="86" column="8" selection-start-line="86" selection-start-column="8" selection-end-line="91" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="true" selection-start-column="5" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/wwh.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Téléchargements/A_Propos/index.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Contact.zip/Contact/index.php" />
     <entry file="file://$PROJECT_DIR$/Blog/components/nav.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -389,27 +442,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/articles.css">
+    <entry file="file://$PROJECT_DIR$/assets/images/laravel.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="113" selection-start-line="49" selection-start-column="113" selection-end-line="49" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/wwh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="61" column="7" lean-forward="true" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/articles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/gamned.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/propos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="94" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/netflix.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/webix.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/hacktag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="77" selection-start-line="92" selection-start-column="77" selection-end-line="92" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/recalbox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Menu_responsive_HTML_CSS_JS_veronique_SEGUIN/Menu responsive HTML CSS JS/index.html" />
+    <entry file="file://E:/Menu_responsive_HTML_CSS_JS_veronique_SEGUIN/Menu responsive HTML CSS JS/style.css" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/gamned.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/propos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="62" column="104" selection-start-line="62" selection-start-column="104" selection-end-line="62" selection-end-column="104" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -420,20 +552,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
+    <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="583" column="19" selection-start-line="583" selection-start-column="19" selection-end-line="583" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/laravel.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="31" column="111" selection-start-line="31" selection-start-column="111" selection-end-line="31" selection-end-column="111" />
+        <state relative-caret-position="476">
+          <caret line="72" column="35" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="74" />
         </state>
       </provider>
     </entry>

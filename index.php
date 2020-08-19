@@ -26,7 +26,7 @@ include ('components/head.php');
         <div id="titre">
             <h1 id="h1-titre">Manon Julien Kuentz</h1> <!--Titre principal de la page-->
             <div> <!--Texte de la page-->
-                <p id="dev">Développeuse web junior</p>
+                <p id="dev">Développeuse web junior - Bachelor 2</p>
             </div>
         </div>
 
@@ -35,6 +35,7 @@ include ('components/head.php');
             <button class="button" type="button" onclick="window.location.href='propos.php'">A propos</button>
             <button class="button" type="button" onclick="window.location.href='Blog/index.php'">Blog</button>
             <button class="button" type="button" onclick="window.location.href='portfolio.php'">Portfolio</button>
+            <button class="button" type="button" onclick="window.location.href='contact.php'">Contact</button>
         </div>
 
     </div>

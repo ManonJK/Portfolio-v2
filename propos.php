@@ -90,11 +90,9 @@ include ('components/navbar.php');
                 </ul>
             </div>
             <!-- .container -->
-
-
-    </div>
-    <!-- End container -->
-    </section>
+            </div>
+        <!-- End container -->
+        </section>
 
     </div>
 

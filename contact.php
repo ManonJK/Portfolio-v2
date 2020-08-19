@@ -7,7 +7,7 @@ require_once('database/db.php'); #On connecte à la base
 <html lang="fr" class="h-100">
 
 <?php #On inclut la navbar
-$title = "Portfolio";
+$title = "Contact";
 include ('components/head.php');
 ?>
 
@@ -46,7 +46,7 @@ include ('components/navbar.php');
                             <label class="sr-only" for="message">Ecrivez votre message ici</label>
                             <textarea class="required form-control" id="message" name="message" placeholder="Ecrivez votre message ici&nbsp;*" rows="6" required></textarea>
                         </div>
-                        <button class="btn btn-accent" type="submit" name="mailform">Envoyer</button>
+                        <button class="button2" type="submit" name="mailform">Envoyer</button>
                     </form>
                 </div>
 
@@ -82,10 +82,6 @@ include ('components/navbar.php');
 
 
                 <div class="col-md-4 contact-info">
-                    <div class="phone">
-                        <h2>Téléphone</h2>
-                        <a href="tel:+33626103528">06.26.10.35.28</a>
-                    </div>
                     <div class="email">
                         <h2>Email</h2>
                         <a href="mailto:julienkuentzmanon@gmail.com">julienkuentzmanon@gmail.com</a>
